@@ -18,9 +18,9 @@
 
 ## 2. Examples
 
-1. [JavaScript](src/languages/javascript)
-2. [Java](src/languages/java)
-3. [Python](src/languages/python)
+* [JavaScript](src/languages/javascript)
+* [Java](src/languages/java)
+* [Python](src/languages/python)
 
 ## 3. Links of interest
 * [Clean Code](https://medium.com/swlh/what-is-clean-code-463d25fa6e0b)
