@@ -9,15 +9,19 @@
 ## Index
 
 1. [Introduction](#1-introduction)
-2. [JavaScript](src/languages/javascript)
-3. [Java](src/languages/java)
-4. [Python](src/languages/python)
-5. [Links of interest](#2-links-of-interest)
+2. [Examples](#2-examples)
+3. [Links of interest](#3-links-of-interest)
 ------
 
 ## 1. Introduction
 <p>Welcome to the code examples, here you can find different examples of problem solutions using JavaScript, Java, and Python languages. Each solution tries to represent good practices when developing.</p>
 
-## 2. Links of interest
+## 2. Examples
+
+1. [JavaScript](src/languages/javascript)
+2. [Java](src/languages/java)
+3. [Python](src/languages/python)
+
+## 3. Links of interest
 * [Clean Code](https://medium.com/swlh/what-is-clean-code-463d25fa6e0b)
 * [Naming Conventions](https://medium.com/wix-engineering/naming-convention-8-basic-rules-for-any-piece-of-code-c4c5f65b0c09)
